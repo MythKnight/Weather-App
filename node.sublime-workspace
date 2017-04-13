@@ -1,0 +1,532 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Hello",
+				"HelloWorldAppModule\tclass"
+			],
+			[
+				"Com",
+				"Component\talias"
+			],
+			[
+				"find_",
+				"find_elements_by_tag_name"
+			],
+			[
+				"UpdateIn",
+				"UpdatingInventoryUsingFTP"
+			],
+			[
+				"klan",
+				"klanding"
+			],
+			[
+				"fa",
+				"False\tkeyword"
+			],
+			[
+				"se",
+				"select"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"ex",
+				"Exception\texception"
+			],
+			[
+				"ran",
+				"random"
+			],
+			[
+				"exp",
+				"except\tkeyword"
+			],
+			[
+				"find_el",
+				"find_elements_by_tag_name"
+			],
+			[
+				"driver",
+				"WebDriverWait"
+			],
+			[
+				"mailat",
+				"mailattach"
+			],
+			[
+				"reque",
+				"requests"
+			],
+			[
+				"run_service",
+				"run_service_invntory"
+			],
+			[
+				"_stop",
+				"_stopin"
+			],
+			[
+				"servi",
+				"services"
+			],
+			[
+				"service",
+				"service_status"
+			],
+			[
+				"timepa",
+				"timepassdays"
+			],
+			[
+				"timepass",
+				"timepasshour"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pac",
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 195.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/aditya/Aditya/books/r39/ng-book-code"
+	],
+	"file_history":
+	[
+		"/home/aditya/Aditya/scraping/zoominfo.py",
+		"/home/aditya/Desktop/test.py",
+		"/home/aditya/Aditya/scraping/kinseysinc/kinseysinc.py",
+		"/home/aditya/Aditya/scraping/rubies/rubies.py",
+		"/home/aditya/Aditya/scraping/kinseysinc/temp/inventory.xml",
+		"/home/aditya/Aditya/scraping/kinseysinc/feed.json",
+		"/home/aditya/Aditya/scraping/banter/banter.py",
+		"/home/aditya/Desktop/deal.py",
+		"/home/aditya/Downloads/kin-inv",
+		"/home/aditya/Downloads/KinseysUpdate_20170106.txt",
+		"/home/aditya/Aditya/scraping/google/google.py",
+		"/home/aditya/Aditya/scraping/ranker/kranker.py",
+		"/home/aditya/Downloads/Products.txt",
+		"/home/aditya/Aditya/scraping/test.py",
+		"/home/aditya/Aditya/scraping/blueridge/blueridgeknives.py",
+		"/home/aditya/Aditya/scraping/google/test.py",
+		"/home/aditya/Aditya/scraping/ranker/ranker.py",
+		"/home/aditya/Downloads/magetno/aw_autorelated-2.4.12.community_edition/step1/skin/frontend/base/default/aw_autorelated/css/product3.css",
+		"/tmp/3-aw_autorelated.xml",
+		"/tmp/2-aw_autorelated.xml",
+		"/tmp/3-product2.css",
+		"/tmp/2-product2.css",
+		"/tmp/1-aw_autorelated.xml",
+		"/tmp/2-product.phtml",
+		"/tmp/1-product.phtml",
+		"/tmp/1-product2.css",
+		"/home/aditya/Downloads/magetno/aw_autorelated-2.4.12.community_edition/step1/skin/frontend/base/default/aw_autorelated/css/product2.css",
+		"/tmp/2-view.phtml",
+		"/tmp/1-view.phtml",
+		"/tmp/2-product.css",
+		"/home/aditya/Downloads/magetno/aw_autorelated-2.4.12.community_edition/step1/skin/frontend/base/default/aw_autorelated/css/product.css",
+		"/home/aditya/Aditya/scraping/google/profile.json",
+		"/tmp/1-product.css",
+		"/home/aditya/Downloads/magetno/aw_autorelated-2.4.12.community_edition/step1/app/design/frontend/base/default/layout/aw_autorelated.xml",
+		"/home/aditya/Downloads/magetno/aw_autorelated-2.4.12.community_edition/step1/app/design/frontend/base/default/template/aw_autorelated/blocks/product/product.phtml",
+		"/tmp/3-product.phtml",
+		"/tmp/7-view.phtml",
+		"/tmp/6-view.phtml",
+		"/tmp/5-view.phtml",
+		"/tmp/4-view.phtml",
+		"/tmp/3-view.phtml",
+		"/home/aditya/Aditya/scraping/google/firefox-userAgent.txt",
+		"/home/aditya/Aditya/scraping/google/chrome-userAgent.txt",
+		"/tmp/1-web.config",
+		"/tmp/1-test.php",
+		"/tmp/1-wp-config.php",
+		"/tmp/3-wp-config.php",
+		"/tmp/2-test.php",
+		"/tmp/1-.htaccess",
+		"/tmp/2-web.config",
+		"/tmp/4-wp-config.php",
+		"/tmp/2-wp-config.php",
+		"/home/aditya/Desktop/test.php",
+		"/home/aditya/Downloads/json.txt",
+		"/home/aditya/Downloads/hma-vpn-mod.sh",
+		"/home/aditya/Aditya/scraping/google/auto.py",
+		"/home/aditya/Aditya/scraping/google/r.txt",
+		"/home/aditya/Aditya/scraping/bicrop/bicorp.py",
+		"/home/aditya/Desktop/vpn/hma.sh",
+		"/home/aditya/Desktop/vpn/grabber",
+		"/etc/openvpn/AlandIslands.Mariehamn.TCP.ovpn",
+		"/etc/openvpn/hmauser.pass",
+		"/home/aditya/Aditya/testing/cp html/newcp1.html",
+		"/home/aditya/Aditya/testing/cp html/css/accordion.css",
+		"/home/aditya/Aditya/testing/cp html/css/bc-style.css",
+		"/home/aditya/Aditya/scraping/bicrop/mail.json",
+		"/home/aditya/Downloads/skype/popupcode.html",
+		"/home/aditya/Aditya/scraping/larp/larp.py",
+		"/home/aditya/Aditya/scraping/ai/ai.py",
+		"/home/aditya/kk/jaja.xml",
+		"/home/aditya/kk/trafficr_jajascollectables.sql",
+		"/home/aditya/Aditya/scraping/bicrop/bicop.py",
+		"/opt/lampp/htdocs/mango/austpost_rates.csv",
+		"/opt/lampp/htdocs/mango/directexpress_rates.csv",
+		"/opt/lampp/htdocs/black_mango.php",
+		"/home/aditya/Aditya/scraping/google/time.py",
+		"/home/aditya/Desktop/vpn/vpn-configs/TCP/Australia.Victoria.Melbourne_LOC2S1.TCP.ovpn",
+		"/home/aditya/Aditya/scraping/larp/text.csv",
+		"/home/aditya/Aditya/Responsive-Youtube-Vimeo-Video-Lightbox-Plugin-YouTubePopUp/YouTubePopUp.jquery.js",
+		"/home/aditya/Desktop/vpn/vpn-configs/UDP/Australia.Victoria.Melbourne_LOC1S1.UDP.ovpn",
+		"/home/aditya/Desktop/vpn/vpn-configs/TCP/Australia.Victoria.Melbourne_LOC1S1.TCP.ovpn",
+		"/home/aditya/Pictures/Screenshot from 2016-11-28 14-29-21.png",
+		"/home/aditya/py3env/lib/python3.5/site-packages/selenium/__init__.py",
+		"/opt/lampp/htdocs/mango/directexpress_zones.csv",
+		"/home/aditya/Aditya/extrawork/page.py",
+		"/home/aditya/Aditya/extrawork/semrush/semrush/semrush.py",
+		"/home/aditya/Aditya/extrawork/test.py",
+		"/home/aditya/Aditya/extrawork/extractor.py",
+		"/home/aditya/Aditya/scraping/ikon/ikon.py",
+		"/home/aditya/Desktop/file.html",
+		"/home/aditya/Downloads/skype/ddaus.py",
+		"/home/aditya/Aditya/scraping/bicrop/services.py",
+		"/home/aditya/Downloads/skype/ftp.json",
+		"/home/aditya/Aditya/adi/cp html/css/bc-style.css",
+		"/home/aditya/Aditya/adi/cp html/newcp1.html",
+		"/home/aditya/Aditya/adi/cp html/readme.md",
+		"/home/aditya/Aditya/adi/cp html/css/accordion.css",
+		"/home/aditya/Aditya/adi/cp html/js/accordion.js",
+		"/home/aditya/proxy webiste",
+		"/home/aditya/Aditya/extrawork/semrush/semrush.py",
+		"/home/aditya/Desktop/myfile",
+		"/home/aditya/Aditya/scraping/ddaus/ddaus.py",
+		"/tmp/3-price.csv",
+		"/tmp/2-price.csv",
+		"/tmp/1-price.csv",
+		"/home/aditya/Aditya/extrawork/metaExtractor.php",
+		"/home/aditya/Desktop/globalksu.html",
+		"/home/aditya/Aditya/scraping/vr/ftp.json",
+		"/home/aditya/Aditya/scraping/hobbies/ftp.json",
+		"/home/aditya/Aditya/scraping/ddaus/ftp.json",
+		"/home/aditya/Aditya/scraping/blueridge/ftp.json",
+		"/home/aditya/Aditya/scraping/bicrop/ftp.json",
+		"/home/aditya/Aditya/scraping/rubies/ftp.json",
+		"/tmp/1-ajax_gettime.php",
+		"/tmp/2-upload.csv",
+		"/tmp/1-magmi_config.php",
+		"/home/aditya/raghu-email-signature/raghu-email-signature.html",
+		"/home/aditya/raghu-email-signature.html",
+		"/home/aditya/test/Leafs-photo-placeholder-right.html",
+		"/home/aditya/Aditya/scraping/ai/ftp.json",
+		"/usr/share/applications/defaults.list",
+		"/home/aditya/Aditya/scraping/scraping.sublime-project",
+		"/opt/lampp/htdocs/htdocs.sublime-project",
+		"/home/aditya/Aditya/scraping/hobbies/hobbiesAustralia.py",
+		"/home/aditya/Aditya/testing/test.py",
+		"/opt/lampp/htdocs/test.php",
+		"/home/aditya/Aditya/Skype.lnk"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 156.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"TR_",
+			"changeExProfile",
+			"ftpdisplayText",
+			"feeddisplayText",
+			"myDB.ping()",
+			"myDB = MySQLdb.connect(host=\"192.185.71.148\",user=\"trafficr_kranker\",passwd=\"t_fEWvkPFnCf\",db=\"trafficr_kranker\")",
+			"updateResult",
+			"rankFinder",
+			"findRanker",
+			"okalready",
+			"Project",
+			"InitUI",
+			"self.statusText",
+			"changeStatustext",
+			"my",
+			"okalready",
+			"MyGUI",
+			"pygoogle2",
+			"self.stop",
+			"hmaVpn",
+			"setftpTExtDisplay",
+			"hmaVpn",
+			"TimeOutThread",
+			"pass",
+			"hmaVpn",
+			"\\\\",
+			"updateInventoryLnk",
+			"feed",
+			"Rubies Deerfield",
+			"beautiful",
+			"features",
+			"orange-text1",
+			"trafficradiusdev.com",
+			"trafficradiusdev.com/jajascollectables",
+			"sessionCheck",
+			"changeEmailId",
+			"mailData",
+			"play-img",
+			"Random",
+			"))\n",
+			"OnAboutBox",
+			"'",
+			"''",
+			"),",
+			",'pkg'=>",
+			" => array('basic'=>",
+			"),",
+			",'pkg'=>",
+			",'sub'=>",
+			"=>array('basic'=>",
+			"=>array(",
+			"ADEL",
+			"ExtractingData",
+			"workerUpdate",
+			"invTimetext",
+			"updateInventoryTimeout",
+			"notbusy",
+			"busy",
+			"stopservicepr",
+			"_stoppr",
+			"updateInAuto",
+			"okalreadyAuto",
+			"run_service_product",
+			"runserviceproduct",
+			"countLines",
+			"UpdatingInventory",
+			"updateIn",
+			"proTimetext",
+			"stopservicepr",
+			"okalreadyAuto",
+			"timepasspr",
+			"run_service_product",
+			"runserviceinvntory",
+			"runserviceproduct",
+			"new_services",
+			"runserviceinvntory",
+			"days",
+			"ftpdisplayText",
+			"\\",
+			"remove_duplicates",
+			"ProductFeatureNames.Name:eq:",
+			"su(",
+			"sl(",
+			".orange-text1{color: #ff9c00;}",
+			"orange-text1",
+			"RemoveDuplicateInCsv",
+			"remove",
+			"wx",
+			"BlueRidge",
+			"BlueRidge Knives",
+			"runImporterPrice",
+			"TR_RD_886132",
+			"TR_RD_886132C",
+			"sendnewMail",
+			"runserviceproduct",
+			"runserviceinvntory",
+			"runserviceproduct",
+			"okalreadyAuto",
+			"okalready",
+			"updateInAuto",
+			"servicesin",
+			"updateInAuto",
+			"updateIn",
+			"run_timepass_invntory",
+			"selectAl",
+			"newservices",
+			"newFTPcreateDialog",
+			"\\\\",
+			"proFilePath",
+			"UpdatingInventory",
+			"def updateIn",
+			"updateIn",
+			"updateinventor",
+			"settingProductPrice",
+			"gedit",
+			"MyFrame",
+			"funkyouman",
+			"testbtnthread",
+			"\\\\"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"myDB = MySQLdb.connect(host=\"192.185.71.148\",user=\"trafficr_gbot\",passwd=\"8x9}wKCAbx{i\",db=\"trafficr_gbot\")",
+			"/",
+			"Kinsey Archery",
+			"Kinsey's Archery",
+			"jajascollectables.com.au",
+			"",
+			"'",
+			"','",
+			"'",
+			"','",
+			",'",
+			",",
+			"LARP",
+			"LARP Distribution",
+			"/",
+			"sublime_text",
+			"/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 42.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "/home/aditya/Aditya/books/r39/ng-book-code/ng.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Aditya/scraping/scraping.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 205.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
