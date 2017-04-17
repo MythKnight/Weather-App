@@ -1,5 +1,6 @@
 const fs = require('fs');
 const geocode = require("./geocode/geocode");
+const weather = require("./weather/weather");
 
 const yargs = require('yargs');
 var argv = yargs
@@ -12,7 +13,7 @@ var argv = yargs
 				address:{
 					alias:'a',
 					desc:"Any Address"
-				}			
+				}		
 			});
 			yargs.demandOption('address',"Please Provide a Address to Get the Weather");
 		}	
@@ -61,6 +62,13 @@ if(argv.address){
 	geocode.geoLocation(argv.address)
 		.then((result)=>{
 			console.log("Formatted Address:",result.address);
+			return weather.getWeather(result.lat,result.lng);
+		})
+		.then((result)=>{
+			console.log("=================================");
+			console.log(` Summary:- ${result.summary} || ${result.icon}
+ Temperature:- ${argv.u==='c'?((result.temperature-32)/1.8).toFixed(2)+" Celsius":result.temperature+" Fahrenheit"}`);
+			console.log("=================================");
 		})
 		.catch((reason)=>{
 			console.log(reason)
